@@ -1,7 +1,7 @@
 # Data structure and algorithem 
 ---
 
-# udacity Udacity Data Structures and Algorithms Nanodegree
+# Udacity Data Structures and Algorithms Nanodegree
 --- 
 
 ## **Part 01 : Introduction**
