@@ -26,16 +26,135 @@
 
 ### 02. Array & LinkedList
 
+#### **Arrays** 
+
+- [3. Longest Substring Without Repeating Characters](leetCode/02.%20Array%20&%20LinkedList/Arrays/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb)
+
+- [11. Container With Most Water](leetCode/02.%20Array%20&%20LinkedList/Arrays/11.%20Container%20With%20Most%20Water.ipynb)
+
+- [15. 3Sum](leetCode/02.%20Array%20&%20LinkedList/Arrays/15.%203Sum.ipynb)
+
+- [66. PlusOne](leetCode/02.%20Array%20&%20LinkedList/Arrays/66.PlusOne.ipynb)
+
+- [76. Minimum Window Substring](leetCode/02.%20Array%20&%20LinkedList/Arrays/76.%20Minimum%20Window%20Substring.ipynb)
+
+- [118. Pascal's Triangle.](leetCode/02.%20Array%20&%20LinkedList/Arrays/118.Pascal's%20Triangle.ipynb)
+
+- [121. Best Time to Buy and Sell Stock](leetCode/02.%20Array%20&%20LinkedList/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.ipynb)
+
+- [125. Valid Palindrome](leetCode/02.%20Array%20&%20LinkedList/Arrays/125.%20Valid%20Palindrome.ipynb)
+
+- [128. Longest Consecutive Sequence](leetCode/02.%20Array%20&%20LinkedList/Arrays/128.%20Longest%20Consecutive%20Sequence.ipynb)
+
+- [167. Two Sum II - Input Array Is Sorted](leetCode/02.%20Array%20&%20LinkedList/Arrays/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb)
+
+- [209. Minimum Size Subarray Su](leetCode/02.%30Array%30&%30LinkedList/Arrays/209.%30Minimum%30Size%30Subarray%30Sum.ipynb)
+
+- [238. Product of Array Except Self](leetCode/02.%20Array%20&%20LinkedList/Arrays/238.%20Product%20of%20Array%20Except%20Self.ipynb)
+
+- [424. Longest Repeating Character Replacement](leetCode/02.%20Array%20&%20LinkedList/Arrays/424.%20Longest%20Repeating%20Character%20Replacement.ipynb)
+
+- [523. Continuous Subarray Sum](leetCode/02.%20Array%20&%20LinkedList/Arrays/523.%20Continuous%20Subarray%20Sum.ipynb)
+
+- [1991. Find the Middle Index in Array](leetCode/02.%20Array%20&%20LinkedList/Arrays/1991.%20Find%20the%20Middle%20Index%20in%20Array.ipynb)
+
+
+#### **LinkedList**
+
+- [2. Add Two Numbers(LinkedList)](leetCode/02.%20Array%20&%20LinkedList/LinkedList/2.%20Add%20Two%20Numbers(LinkedList).ipynb)
+
+- [141. Linked List Cycle](leetCode/02.%20Array%20&%20LinkedList/LinkedList/141.Linked%20List%20Cycle.ipynb)
+
+- [143. Reorder List](leetCode/02.%20Array%20&%20LinkedList/LinkedList/143.%20Reorder%20List.ipynb)
+
+- [206. ReverseLinkedList](leetCode/02.%20Array%20&%20LinkedList/LinkedList/206.ReverseLinkedList.ipynb)
+
+- [876. Middle of the Linked List](leetCode/02.%20Array%20&%20LinkedList/LinkedList/876.%20Middle%20of%20the%20Linked%20List.ipynb)
+
+
 ### 03. Stacks , Queues & Heap
+
+- [42. Trapping Rain Water](leetCode/03.%20Stacks%20,%20Queues%20&%20Heap/42.%20Trapping%20Rain%20Water.ipynb)
+
+- [239. Sliding Window Maximum](leetCode/03.%20Stacks%20,%20Queues%20&%20Heap/239.%20Sliding%20Window%20Maximum.ipynb)
+
+- [496. Next Greater Element I](leetCode/03.%20Stacks%20,%20Queues%20&%20Heap/496.%20Next%20Greater%20Element%20I.ipynb)
+
+- [503. Next Greater Element II](leetCode/03.%20Stacks%20,%20Queues%20&%20Heap/503.%20Next%20Greater%20Element%20II.ipynb)
+
+- [739. Daily Temperatures](leetCode/03.%20Stacks%20,%20Queues%20&%20Heap/739.%20Daily%20Temperatures.ipynb)
+
 
 ### 04. Hash Maps & Hashing
 
+- [1. Two Sum](leetCode/04.%20Hash%20Maps%20&%20Hashing/1.%20Two%20Sum.ipynb)
+
+- [49. Group Anagrams.](leetCode/04.%20Hash%20Maps%20&%20Hashing/49.%20Group%20Anagrams.ipynb)
+
+- [217. Contains Duplicate](leetCode/04.%20Hash%20Maps%20&%20Hashing/217.%20Contains%20Duplicate.ipynb)
+
+- [219. Contains Duplicate II](leetCode/04.%20Hash%20Maps%20&%20Hashing/219.%20Contains%20Duplicate%20II.ipynb)
+
+- [242. Valid Anagram](leetCode/04.%20Hash%20Maps%20&%20Hashing/242.%20Valid%20Anagram.ipynb)
+
+- [268. Missing Number](leetCode/04.%20Hash%20Maps%20&%20Hashing/268.%20Missing%20Number.ipynb)
+
+- [287. Find the Duplicate Number](leetCode/04.%20Hash%20Maps%20&%20Hashing/287.%20Find%20the%20Duplicate%20Number.ipynb)
+
+- [846. Hand of Straights](leetCode/04.%20Hash%20Maps%20&%20Hashing/846.%20Hand%20of%20Straights.ipynb)
+
+-[953. Verifying an Alien Dictionary](leetCode/04.%20Hash%20Maps%20&%20Hashing/953.%20Verifying%20an%20Alien%20Dictionary.ipynb)
+
+
 ### 05. Sorting & Searching 
+
+- [4. Median of Two Sorted Arrays](leetCode/05.%Sorting%&%Searching%/4.%Median%of%Two%Sorted%Arrays.ipynb)
+
+- [33. Search in Rotated Sorted Array](leetCode/05.%Sorting%&%Searching%/33.%Search%in%Rotated%Sorted%Array.ipynb)
+
+- [56. Merge Intervals](leetCode/05.%Sorting%&%Searching%/56.%Merge%Intervals.ipynb)
+
+- [74. Search a 2D Matrix](leetCode/05.%Sorting%&%Searching%/74.%Search%a%2D%Matrix.ipynb)
+
+- [215. Kth Largest Element in an Array](leetCode/05.%Sorting%&%Searching%/215.%Kth%Largest%Element%in%an%Array.ipynb)
+
+- [347. Top K Frequent Elements](leetCode/05.%Sorting%&%Searching%/347.%Top%K%Frequent%Elements.ipynb)
+
+- [435. Non-overlapping Intervals](leetCode/05.%Sorting%&%Searching%/435.%Non-overlapping%Intervals.ipynb)
+
+- [452. Minimum Number of Arrows to Burst Balloons](leetCode/05.%Sorting%&%Searching%/452.%Minimum%Number%of%Arrows%to%Burst%Balloons.ipynb)
+
+- [704. Binary Search](leetCode/05.%Sorting%&%Searching%/704.%Binary%Search.ipynb)
+
+- [724. Find Pivot Index](leetCode/05.%Sorting%&%Searching%/724.%Find%Pivot%Index.ipynb)
+
+- [875. Koko Eating Bananas](leetCode/05.%Sorting%&%Searching%/875.%Koko%Eating%Bananas.ipynb)
+
+- [973. K Closest Points to Origin](leetCode/05.%Sorting%&%Searching%/973.%K%Closest%Points%to%Origin.ipynb)
+
+- [981. Time Based Key-Value Store](leetCode/05.%Sorting%&%Searching%/981.%Time%Based%Key-Value%Store.ipynb)
+
+
+### 06. Recuersion and Call Stack
+
+- [93. Restore IP Addresses](leetCode/06.%Recuersion%and%Call%Stack/93.%Restore%IP%Addresses.ipynb)
+
+- [51. N-Queens](leetCode/06.%Recuersion%and%Call%Stack/51.%N-Queens.ipynb)
+
+
+- [46. Permutations](leetCode/06.%Recuersion%and%Call%Stack/46.%Permutations.ipynb)
+
+- [47. Permutations II](leetCode/06.%Recuersion%and%Call%Stack/47.%Permutations%II.ipynb)
+
+- [17. Letter Combinations of a Phone Number](leetCode/06.%Recuersion%and%Call%Stack/17.%Letter%Combinations%of%a%Phone%Number.ipynb)
+
+- [77. Combinations](leetCode/06.%Recuersion%and%Call%Stack/77.%Combinations.ipynb)
+
+- [78. Subsets](leetCode/06.%Recuersion%and%Call%Stack/78.%Subsets.ipynb)
 
 
 
 ## udacity Udacity Data Structures and Algorithms Nanodegree
 --- 
 
--  [array and linkedlist](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/00_String.ipynb)
 
