@@ -230,20 +230,20 @@
 
 ### 06. Recuersion and Call Stack
 
-- [93. Restore IP Addresses](leetCode/06.%Recuersion%and%Call%Stack/93.%Restore%IP%Addresses.ipynb)
+- [93. Restore IP Addresses](leetCode/06.%20Recuersion%20and%20Call%20Stack/93.%20Restore%20IP%20Addresses.ipynb)
 
-- [51. N-Queens](leetCode/06.%Recuersion%and%Call%Stack/51.%N-Queens.ipynb)
+- [51. N-Queens](leetCode/06.%20Recuersion%20and%20Call%20Stack/51.%20N-Queens.ipynb)
 
 
-- [46. Permutations](leetCode/06.%Recuersion%and%Call%Stack/46.%Permutations.ipynb)
+- [46. Permutations](leetCode/06.%20Recuersion%20and%20Call%20Stack/46.%20Permutations.ipynb)
 
-- [47. Permutations II](leetCode/06.%Recuersion%and%Call%Stack/47.%Permutations%II.ipynb)
+- [47. Permutations II](leetCode/06.%20Recuersion%20and%20Call%20Stack/47.%20Permutations%20II.ipynb)
 
-- [17. Letter Combinations of a Phone Number](leetCode/06.%Recuersion%and%Call%Stack/17.%Letter%Combinations%of%a%Phone%Number.ipynb)
+- [17. Letter Combinations of a Phone Number](leetCode/06.%20Recuersion%20and%20Call%20Stack/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.ipynb)
 
-- [77. Combinations](leetCode/06.%Recuersion%and%Call%Stack/77.%Combinations.ipynb)
+- [77. Combinations](leetCode/06.%20Recuersion%20and%20Call%20Stack/77.%20Combinations.ipynb)
 
-- [78. Subsets](leetCode/06.%Recuersion%and%Call%Stack/78.%Subsets.ipynb)
+- [78. Subsets](leetCode/06.%20Recuersion%20and%20Call%20Stack/78.%20Subsets.ipynb)
 
 - [78. Subsets II](leetCode/06.%20Recuersion%20and%20Call%20Stack/90.%20Subsets%20II.ipynb)
 
