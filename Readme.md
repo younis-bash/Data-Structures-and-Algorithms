@@ -251,7 +251,7 @@
 
 - [40. Combination Sum II](leetCode/06.%20Recuersion%20and%20Call%20Stack/40.%20Combination%20Sum%20II.ipynb) 
 
-- [1863. Sum of All Subset XOR Totals]
+- [1863. Sum of All Subset XOR Totals](leetCode/06.%20Recuersion%20and%20Call%20Stack/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.ipynb)
 
 
 
