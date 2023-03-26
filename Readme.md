@@ -196,3 +196,5 @@
 - [104. Maximum Depth of Binary Tree](leetCode/07.%20Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)
 
 - [543. Diameter of Binary Tree](leetCode/07.%20Trees/543.%20Diameter%20of%20Binary%20Tree.ipynb)
+
+- [2236. Root Equals Sum of Children](leetCode/07.%20Trees/2236.%20Root%20Equals%20Sum%20of%20Children.ipynb)
