@@ -194,3 +194,5 @@
 - [111. Minimum Depth of Binary Tree](leetCode/07.%20Trees/111.%20Minimum%20Depth%20of%20Binary%20Tree.ipynb)
 
 - [104. Maximum Depth of Binary Tree](leetCode/07.%20Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)
+
+- [543. Diameter of Binary Tree](leetCode/07.%20Trees/543.%20Diameter%20of%20Binary%20Tree.ipynb)
