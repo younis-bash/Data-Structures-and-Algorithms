@@ -4,88 +4,20 @@
 # Udacity Data Structures and Algorithms Nanodegree
 --- 
 
-## **Part 01 : Introduction**
-
-[Part 01 : Introduction](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2001%20:%20Introduction)
+## **Part 01 : Introduction**   [link](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2001%20:%20Introduction)
 
 ## **Part 02 : Data Structures**
 
-### **Lesson 01: Arrays and Linked Lists**
-- [00. String](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/00.%20String.ipynb)
-    
-- [01. LinkedList](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/01.%20LinkedList.ipynb)
-    
-- [02. BasicLinkedLis](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/02.%20BasicLinkedList.ipynb)
-    
-- [03. LinkedList_Practise](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/03.%20LinkedList_Practise.ipynb)
-    
-- [04. ReverseLinkedList](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/04.%20ReverseLinkedList.ipynb)
-    
-- [05. DetectingLoop](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/05.%20DetectingLoop.ipynb)
-    
-- [06. FlatteningNestedLinkedList](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/06.%20FlatteningNestedLinkedList.ipynb)
-    
-- [07. Add-One](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/07.%20Add-One.ipynb)
-
-- [08. DuplicateNumber](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/08.%20DuplicateNumber.ipynb)
-    
-- [09. MaxSumSubarray](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/09.%20MaxSumSubarray.ipynb)
-    
-- [10. Pascal'sTriangle](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/10.%20Pascal'sTriangle.ipynb)
-    
-- [11. Even-After-Odd-Nodes](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/11.%20Even-After-Odd-Nodes.ipynb)
-    
-- [12. Skip-i-delete-j](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/12.%20Skip-i-delete-j.ipynb)
-
-- [13. Swap-Nodes](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/13.%20Swap-Nodes.ipynb)
+### **Lesson 01: Arrays and Linked Lists** [link](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2001:%20Arrays%20and%20Linked%20Lists/)
 
 
-### **Lesson 02: Stacks and Queues**
-
-- [0.6 Balanced Parentheses Exercise](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/0.6%20Balanced%20Parentheses%20Exercise.ipynb)
-
-- [03. Implement a Stack Using an Array](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/03.%20Implement%20a%20Stack%20Using%20an%20Array.ipynb)
-
-- [04. Implement a Stack Using a Linked List](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/04.%20Implement%20a%20Stack%20Using%20a%20Linked%20List.ipynb)
-
-- [05. Building a Stack in Python](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/05.%20Building%20a%20Stack%20in%20Python.ipynb)
+### **Lesson 02: Stacks and Queues** [link](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/)
 
 
-- [07. Reverse Polish Notation](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/07.%20Reverse%20Polish%20Notation.ipynb)
-
-- [08. Reverse a Stack](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/08.%20Reverse%20a%20Stack.ipynb)
-
-- [09. Minimum Bracket Reversals](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/09.%20Minimum%20Bracket%20Reversals.ipynb)
-
-- [11. Build a Queue Using an Array](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/11.%20Build%20a%20Queue%20Using%20an%20Array.ipynb)
-
-- [12. Build a Queue Using a Linked List](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/12.%20Build%20a%20Queue%20Using%20a%20Linked%20List.ipynb)
-
-- [13. Build a Queue Using a Stack](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/13.%20Build%20a%20Queue%20Using%20a%20Stack.ipynb)
-
-- [14. Build a Queue Using High-Level Python](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/14.%20Build%20a%20Queue%20Using%20High-Level%20Python.ipynb)
-
-- [15. Reverse a Queue](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2002:%20Stacks%20and%20Queues/15.%20Reverse%20a%20Queue.ipynb)
+### **Lesson 03: Recursion** [link](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2003:%20Recursion/)
 
 
-
-### **Lesson 03: Recursion**
-
-- [02. Recursion](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2003:%20Recursion/02.%20Recursion.ipynb)
-
-- [03. Factorial Function](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2003:%20Recursion/03.%20Factorial%20Function.ipynb)
-
-- [04. Reverse a String](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2003:%20Recursion/04.%20Reverse%20a%20String.ipynb)
-
-- [05. Palindrome Checking](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2003:%20Recursion/05.%20Palindrome%20Checking.ipynb)
-
-- [06. List Permutations](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2003:%20Recursion/06.%20List%20Permutations.ipynb)
-
-- [07. String Permutations](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2003:%20Recursion/07.%20String%20Permutations.ipynb)
-
-
-
-### **Lesson 04: Trees**
+### **Lesson 04: Trees** [link](Udacity_Data_Structures_and_Algorithms_Nanodegree/Part%2002%20:%20Data%20Structures/Lesson%2004:%20Trees)
 
 
 
@@ -255,8 +187,10 @@
 
 
 
+### 07. Trees
 
 - [110. Balanced Binary Tree](leetCode/07.%20Trees/110.%20Balanced%20Binary%20Tree.ipynb)
 
 - [111. Minimum Depth of Binary Tree](leetCode/07.%20Trees/111.%20Minimum%20Depth%20of%20Binary%20Tree.ipynb)
 
+- [104. Maximum Depth of Binary Tree](leetCode/07.%20Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)
