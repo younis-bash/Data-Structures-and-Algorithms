@@ -198,3 +198,5 @@
 - [543. Diameter of Binary Tree](leetCode/07.%20Trees/543.%20Diameter%20of%20Binary%20Tree.ipynb)
 
 - [2236. Root Equals Sum of Children](leetCode/07.%20Trees/2236.%20Root%20Equals%20Sum%20of%20Children.ipynb)
+
+- [958. Check Completeness of a Binary Tree](leetCode/07.%20Trees/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.ipynb)
