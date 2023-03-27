@@ -204,3 +204,5 @@
 - [103. Binary Tree Zigzag Level Order Traversal](leetCode/07.%20Trees/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.ipynb)
 
 - [404. Sum of Left Leaves](leetCode/07.%20Trees/404.%20Sum%20of%20Left%20Leaves.ipynb)
+
+- [112. Path Sum](leetCode/07.%20Trees/112.%20Path%20Sum.ipynb)
