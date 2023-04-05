@@ -206,3 +206,21 @@
 - [404. Sum of Left Leaves](leetCode/07.%20Trees/404.%20Sum%20of%20Left%20Leaves.ipynb)
 
 - [112. Path Sum](leetCode/07.%20Trees/112.%20Path%20Sum.ipynb)
+
+- [94. Binary Tree Inorder Traversal](leetCode/07.%20Trees/94.%20Binary%20Tree%20Inorder%20Traversal.ipynb)
+
+- [101. Symmetric Tree.](leetCode/07.%20Trees/101.%20Symmetric%20Tree.ipynb)
+
+- [145. Binary Tree Postorder Traversal](leetCode/07.%20Trees/145.%20Binary%20Tree%20Postorder%20Traversal.ipynb) 
+
+- [208. Implement Trie (Prefix Tree)](leetCode/07.%20Trees/208.%20Implement%20Trie%20(Prefix%20Tree).ipynb)
+
+- [226. Invert Binary Tree](leetCode/07.%20Trees/226.%20Invert%20Binary%20Tree.ipynb)
+
+- [230. Kth Smallest Element in a BST](leetCode/07.%20Trees/230.%20Kth%20Smallest%20Element%20in%20a%20BST.ipynb)
+
+- [235. Lowest Common Ancestor of a Binary Search Tree](leetCode/07.%20Trees/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.ipynb)
+
+- [236. Lowest Common Ancestor of a Binary Tree](leetCode/07.%20Trees/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.ipynb)
+
+- [530. Minimum Absolute Difference in BST](leetCode/07.%20Trees/530.%20Minimum%20Absolute%20Difference%20in%20BST.ipynb)
